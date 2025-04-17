@@ -1,1 +1,2 @@
-# cursoemvideo-python
+# Linguagem Python - Curso em Vídeo
+Este repositório contém as aulas e exercícios dos três módulos do curso de Python feito pela plataforma "Curso em Vídeo". Os arquivos contém as minhas anotações das aulas e as minhas soluções para os exercícios propostos pelo professor. 
